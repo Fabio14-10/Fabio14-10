@@ -35,10 +35,5 @@ Orgulloso de mi familia ❤️.
 - 🚀 [Ascensor](https://github.com/Fabio14-10/Ascensor) – Simulación de un ascensor en Java.  
 - 🔧 [Temperatura](https://github.com/Fabio14-10/Temperatura) – Conversor de temperaturas.  
 - ⚙️ [Tienda](https://github.com/Fabio14-10/Tienda) – Proyecto básico de gestión de tienda en Java.
-
-## 🌟 Frase que me inspira
-> *"El éxito es la suma de pequeños esfuerzos repetidos día tras día."*
-
-
 ## 🌟 Frase que me inspira
 > *"El éxito es la suma de pequeños esfuerzos repetidos día tras día."*
