@@ -32,8 +32,10 @@ Orgulloso de mi familia ❤️.
 ---
 
 ## 📌 Proyectos Destacados
-- 🚀 [Ascensor](https://github.com/Fabio14-10/Ascensor) – Simulación de un ascensor en Java.  
-- 🔧 [Temperatura](https://github.com/Fabio14-10/Temperatura) – Conversor de temperaturas.  
-- ⚙️ [Tienda](https://github.com/Fabio14-10/Tienda) – Proyecto básico de gestión de tienda en Java.
+- 🔄 [SWITCH-En-Adelante](https://github.com/Fabio14-10/SWITCH-En-Adelante) – Ejemplo de estructura condicional *switch* en Java.
+- 🗂️ [ARRAYS-MVC](https://github.com/Fabio14-10/ARRAYS-MVC) – Proyecto en Java usando patrón MVC para gestión de arreglos.
+- 🏪 [MVC-EJ-1-Proveedor-incluido-](https://github.com/Fabio14-10/MVC-EJ-1-Proveedor-incluido-) – Sistema básico en Java MVC con módulo de proveedores.
+
+
 ## 🌟 Frase que me inspira
 > *"El éxito es la suma de pequeños esfuerzos repetidos día tras día."*
