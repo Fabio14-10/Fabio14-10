@@ -35,6 +35,8 @@ Orgulloso de mi familia ❤️.
 - 🔄 [SWITCH-En-Adelante](https://github.com/Fabio14-10/SWITCH-En-Adelante) – Ejemplo de estructura condicional *switch* en Java.
 - 🗂️ [ARRAYS-MVC](https://github.com/Fabio14-10/ARRAYS-MVC) – Proyecto en Java usando patrón MVC para gestión de arreglos.
 - 🏪 [MVC-EJ-1-Proveedor-incluido-](https://github.com/Fabio14-10/MVC-EJ-1-Proveedor-incluido-) – Sistema básico en Java MVC con módulo de proveedores.
+- 🗂️ [GOOGLE-CLONE](https://github.com/Fabio14-10/Google-clone) - Proyecto HTML-CSS de un Clon de Google amigable para Desktop.
+- 📊 [ECO-STORE-PROJECT-DESKTOP](https://github.com/Fabio14-10/ECO-STORE-PROJECT-DESKTOP) - Proyecto en HTML y CSS sobre una pagina web Ecologica solo en Desktop.
 
 
 ## 🌟 Frase que me inspira
